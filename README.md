@@ -21,3 +21,8 @@ Contribute
 ----------
 
 If you'd like to contribute to Recursion Book, check out https://github.com/asweigart/recursionbook
+
+Support
+-------
+
+If you find this project helpful and would like to support its development, [consider donating to its creator on Patreon](https://www.patreon.com/AlSweigart).
